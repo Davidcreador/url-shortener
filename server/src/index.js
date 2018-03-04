@@ -4,7 +4,7 @@ import {logger} from './util';
 // start server
 app.listen(8080, function() {
   const host = this.address().address;
-  const port = this.address().port;
+  const {port} = this.address();
   logger.info(`UrlShortener-server is listening at http://${host}:${port}`);
 });
 

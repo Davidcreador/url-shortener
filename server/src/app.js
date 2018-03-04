@@ -1,15 +1,12 @@
-// npm packages
 import express from 'express';
 import bodyParser from 'body-parser';
 import cookieParser from 'cookie-parser';
-import session from 'express-session';
-// import passport from 'passport';
 import morgan from 'morgan';
 import cors from 'cors';
-
-// our packages
 import {logger} from './util';
-// import {auth as authConfig} from '../config';
+
+// routes
+import setupUrlRoutes from './url';
 
 // init app
 const app = express();
@@ -27,22 +24,12 @@ app.use(bodyParser.urlencoded({extended: true})); // for parsing application/x-w
 // add cookie parsing
 app.use(cookieParser());
 
-// add session support
-// app.use(session({
-//   secret: authConfig.sessionSecret,
-//   resave: false,
-//   saveUninitialized: true,
-//   cookie: {secure: true},
-// }));
-
-// add passport.js
-// app.use(passport.initialize());
-// app.use(passport.session());
-
 // test method
 app.get('/', (req, res) => {
   res.send('Hello world!');
 });
+
+setupUrlRoutes(app);
 
 // catch all unhandled errors
 app.use((err, req, res, next) => {
