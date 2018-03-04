@@ -8,7 +8,6 @@ app.listen(8080, function() {
   logger.info(`UrlShortener-server is listening at http://${host}:${port}`);
 });
 
-
 // output all uncaught exceptions
 process.on('uncaughtException', err => logger.error('uncaught exception:', err));
 process.on('unhandledRejection', error => logger.error('unhandled rejection:', error));

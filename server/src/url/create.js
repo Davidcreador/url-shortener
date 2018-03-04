@@ -1,9 +1,8 @@
 export default (app) => {
   app.post('/api/url', async(req, res) => {
-    const {text} = req.body;
-
+    const {url} = req.body;
     // make sure text is not empty
-    if (!text || !text.length) {
+    if (!url || !url.length) {
       res.status(400).send({error: 'Text should be present!'});
       return;
     }
