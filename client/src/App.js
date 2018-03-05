@@ -10,9 +10,8 @@ class App extends Component {
   }
 
   componentDidMount() {
-    axios.get("http://localhost:8080/board")
+    axios.get("https://tinyr-s.herokuapp.com/board")
       .then(res => {
-        console.log(res);
         this.setState({board: res.data});
       }).catch(err => console.error);
   }
@@ -26,10 +25,8 @@ class App extends Component {
     }
 
     if (data.path !== '') {
-      axios.post("http://localhost:8080/url", data)
-      // axios.post("https://url-shortener-server.herokuapp.com/url", data)
+      axios.post("https://tinyr-s.herokuapp.com/url", data)
       .then(res => {
-        console.log(res);
         this.setState({smallUrl: res.data});
       }).catch(err => console.error);
     }
@@ -38,6 +35,13 @@ class App extends Component {
 
   handleChange = (e) => {
     this.setState({input: e.target.value});
+  }
+
+  renderSites = () => {
+    if (!this.state.board.length) return null;
+    return this.state.board
+      // .sort((a, b) => a.rank - b.rank)
+      .map(b => <a target="_blank" key={b.id} className="button" href={b.path}>{b.path}</a>);
   }
   
   render() {
@@ -55,15 +59,17 @@ class App extends Component {
               <button type="submit" className="button is-link">Send</button>
             </div>
           </form>
-          {this.state.smallUrl ?
-            <div className="tinyr-link">
-              <h2 className="subtitle">Your link:</h2>
-              <a href={this.state.smallUrl}>{this.state.smallUrl}</a>
-            </div> : null}
-            <div className="board">
-              <h2 className="title">100 Top Sites</h2>
-              {this.state.board ? this.state.board.sort((a, b) => a.rank - b.rank).map(b => <a target="_blank" key={b.id} className="button" href={b.path}>{b.path}</a>) : null}
-            </div>
+          <div>
+            {this.state.smallUrl ?
+              <div className="tinyr-link">
+                <h2 className="subtitle">Your link:</h2>
+                <a href={this.state.smallUrl}>{this.state.smallUrl}</a>
+              </div> : null}
+          </div>
+          <div className="board">
+            <h2 className="title">100 Top Sites</h2>
+            {this.renderSites()}
+          </div>
         </div>
       </div>
     );
