@@ -1,7 +1,7 @@
 import Url from '../models/url';
 
 export default (app) => {
-  app.get('/api/url/:id', async(req, res) => {
+  app.get('/:id', async(req, res) => {
     // decode param :id
     const encodedId = req.params.id;
     const decodedId = parseInt(encodedId, 36);
@@ -11,8 +11,7 @@ export default (app) => {
       if (err) return console.log(err);
       if (!url) console.log('NO URL');
 
-      res.redirect(302, url.path);
-      return res.json(url);
+      return res.redirect(302, url.path);
     });
   });
 };

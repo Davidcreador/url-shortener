@@ -1,18 +1,52 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
+  state = {
+    input: '',
+    smallUrl: null
+  }
+  handleSubmit = (e) => {
+    e.preventDefault();
+    const {input} = this.state;
+    const data = {
+      path: input,
+      description: 'Search site'
+    }
+
+    axios.post("api/url", data)
+    .then(res => {
+      console.log(res);
+      this.setState({smallUrl: res.data});
+    }).catch(err => console.error);
+  }
+
+  handleChange = (e) => {
+    this.setState({ input: e.target.value });
+  }
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+      <div className="App container">
+        <h1 className="title">Url Shortener</h1>
+        <form onSubmit={this.handleSubmit}>
+          <div className="field">
+            <div className="control">
+              <input onChange={this.handleChange} value={this.state.input} type="text" placeholder="Type or Paste your url" className="input" />
+            </div>
+          </div>
+          <div className="control">
+            <button type="submit" className="button is-link">Send</button>
+          </div>
+        </form>
+        {this.state.smallUrl ?
+          <div>
+            <h2>Your link:</h2>
+            <a href={this.state.smallUrl}>{this.state.smallUrl}</a>
+          </div> : null}
+        
       </div>
     );
   }

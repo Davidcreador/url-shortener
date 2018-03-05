@@ -17,13 +17,15 @@ export default (app) => {
           if (err) return console.log('Error saving', error);
           const {id} = urlSaved;
           const base32Id = id.toString(36);
-          return res.json(base32Id);
+          const customUrl = process.env.HOST + base32Id;
+          return res.json(customUrl);
         });
-      } else {
-        const {id} = url;
-        const base32Id = id.toString(36);
-        return res.json(base32Id);
       }
+
+      const {id} = url;
+      const base32Id = id.toString(36);
+      const customUrl = process.env.HOST + base32Id;
+      return res.json(customUrl);
     });
   });
 };
