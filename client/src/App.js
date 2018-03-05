@@ -16,7 +16,7 @@ class App extends Component {
       description: 'Search site'
     }
 
-    axios.post("api/url", data)
+    axios.post("https://url-shortener-server.herokuapp.com/api/url", data)
     .then(res => {
       console.log(res);
       this.setState({smallUrl: res.data});
@@ -26,7 +26,7 @@ class App extends Component {
   handleChange = (e) => {
     this.setState({ input: e.target.value });
   }
-
+  
   render() {
     return (
       <div className="App container">
