@@ -3,7 +3,7 @@ import makeId from '../util/makeId';
 
 export default (app) => {
   app.post('/url', async(req, res, next) => {
-    const path = req.body.path.includes('https://') ? req.body.path : `http://${req.body.path}`;
+    const path = req.body.path.includes('https://') || req.body.path.includes('http://') ? req.body.path : `http://${req.body.path}`;
 
     Url.findOne({path}, (err, url) => {
       // if error

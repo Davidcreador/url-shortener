@@ -1,802 +1,402 @@
 [
   {
     "Rank": 1,
-    "URL": "facebook.com/",
-    "Linking Root Domains": 13470095,
-    "External Links": 5252559787,
-    "mozRank": 9.76,
-    "mozTrust": 9.45
+    "URL": "http://facebook.com/"
   },
   {
     "Rank": 2,
-    "URL": "twitter.com/",
-    "Linking Root Domains": 9254014,
-    "External Links": 7599398722,
-    "mozRank": 9.58,
-    "mozTrust": 9.38
+    "URL": "http://twitter.com/"
   },
   {
     "Rank": 3,
-    "URL": "google.com/",
-    "Linking Root Domains": 7580755,
-    "External Links": 3779689186,
-    "mozRank": 9.48,
-    "mozTrust": 9.33
+    "URL": "http://google.com/"
   },
   {
     "Rank": 4,
-    "URL": "youtube.com/",
-    "Linking Root Domains": 4854888,
-    "External Links": 2103907115,
-    "mozRank": 9.28,
-    "mozTrust": 9.14
+    "URL": "http://youtube.com/"
   },
   {
     "Rank": 5,
-    "URL": "instagram.com/",
-    "Linking Root Domains": 3370573,
-    "External Links": 1847514263,
-    "mozRank": 9.44,
-    "mozTrust": 9.14
+    "URL": "http://instagram.com/"
   },
   {
     "Rank": 6,
-    "URL": "linkedin.com/",
-    "Linking Root Domains": 3334680,
-    "External Links": 1087537182,
-    "mozRank": 9.13,
-    "mozTrust": 9
+    "URL": "http://linkedin.com/"
   },
   {
     "Rank": 7,
-    "URL": "wordpress.org/",
-    "Linking Root Domains": 3259052,
-    "External Links": 242824032,
-    "mozRank": 9.14,
-    "mozTrust": 8.81
+    "URL": "http://wordpress.org/"
   },
   {
     "Rank": 8,
-    "URL": "pinterest.com/",
-    "Linking Root Domains": 2077628,
-    "External Links": 1043283279,
-    "mozRank": 8.85,
-    "mozTrust": 8.67
+    "URL": "http://pinterest.com/"
   },
   {
     "Rank": 9,
-    "URL": "wikipedia.org/",
-    "Linking Root Domains": 1710974,
-    "External Links": 330830246,
-    "mozRank": 8.77,
-    "mozTrust": 8.65
+    "URL": "http://wikipedia.org/"
   },
   {
     "Rank": 10,
-    "URL": "wordpress.com/",
-    "Linking Root Domains": 1473570,
-    "External Links": 333007924,
-    "mozRank": 8.66,
-    "mozTrust": 8.62
+    "URL": "http://wordpress.com/"
   },
   {
     "Rank": 11,
-    "URL": "blogspot.com/",
-    "Linking Root Domains": 1307953,
-    "External Links": 817692995,
-    "mozRank": 8.5,
-    "mozTrust": 8.46
+    "URL": "http://blogspot.com/"
   },
   {
     "Rank": 12,
-    "URL": "apple.com/",
-    "Linking Root Domains": 1182740,
-    "External Links": 371655666,
-    "mozRank": 9.03,
-    "mozTrust": 9.04
+    "URL": "http://apple.com/"
   },
   {
     "Rank": 13,
-    "URL": "adobe.com/",
-    "Linking Root Domains": 1171857,
-    "External Links": 112571764,
-    "mozRank": 8.94,
-    "mozTrust": 9.07
+    "URL": "http://adobe.com/"
   },
   {
     "Rank": 14,
-    "URL": "tumblr.com/",
-    "Linking Root Domains": 1005578,
-    "External Links": 1125612110,
-    "mozRank": 8.48,
-    "mozTrust": 8.38
+    "URL": "http://tumblr.com/"
   },
   {
     "Rank": 15,
-    "URL": "amazon.com/",
-    "Linking Root Domains": 936994,
-    "External Links": 253700025,
-    "mozRank": 8.5,
-    "mozTrust": 8.52
+    "URL": "http://amazon.com/"
   },
   {
     "Rank": 16,
-    "URL": "youtu.be/",
-    "Linking Root Domains": 929155,
-    "External Links": 76088071,
-    "mozRank": 8.57,
-    "mozTrust": 8.58
+    "URL": "http://youtu.be/"
   },
   {
     "Rank": 17,
-    "URL": "goo.gl/",
-    "Linking Root Domains": 874177,
-    "External Links": 228551478,
-    "mozRank": 8.62,
-    "mozTrust": 8.47
+    "URL": "http://goo.gl/"
   },
   {
     "Rank": 18,
-    "URL": "vimeo.com/",
-    "Linking Root Domains": 869643,
-    "External Links": 95672007,
-    "mozRank": 8.55,
-    "mozTrust": 8.5
+    "URL": "http://vimeo.com/"
   },
   {
     "Rank": 19,
-    "URL": "flickr.com/",
-    "Linking Root Domains": 747866,
-    "External Links": 339609661,
-    "mozRank": 8.41,
-    "mozTrust": 8.56
+    "URL": "http://flickr.com/"
   },
   {
     "Rank": 20,
-    "URL": "microsoft.com/",
-    "Linking Root Domains": 718984,
-    "External Links": 231970226,
-    "mozRank": 8.91,
-    "mozTrust": 8.74
+    "URL": "http://microsoft.com/"
   },
   {
     "Rank": 21,
-    "URL": "yahoo.com/",
-    "Linking Root Domains": 676893,
-    "External Links": 119022829,
-    "mozRank": 8.38,
-    "mozTrust": 8.38
+    "URL": "http://yahoo.com/"
   },
   {
     "Rank": 22,
-    "URL": "bit.ly/",
-    "Linking Root Domains": 606542,
-    "External Links": 169687130,
-    "mozRank": 8.43,
-    "mozTrust": 8.45
+    "URL": "http://bit.ly/"
   },
   {
     "Rank": 23,
-    "URL": "godaddy.com/",
-    "Linking Root Domains": 550421,
-    "External Links": 4267977,
-    "mozRank": 8.7,
-    "mozTrust": 8.09
+    "URL": "http://godaddy.com/"
   },
   {
     "Rank": 24,
-    "URL": "buydomains.com/",
-    "Linking Root Domains": 548222,
-    "External Links": 636330,
-    "mozRank": 8.67,
-    "mozTrust": 7.69
+    "URL": "http://buydomains.com/"
   },
   {
     "Rank": 25,
-    "URL": "vk.com/",
-    "Linking Root Domains": 524734,
-    "External Links": 177201902,
-    "mozRank": 8.23,
-    "mozTrust": 7.63
+    "URL": "http://vk.com/"
   },
   {
     "Rank": 26,
-    "URL": "reddit.com/",
-    "Linking Root Domains": 476498,
-    "External Links": 119065454,
-    "mozRank": 7.97,
-    "mozTrust": 7.96
+    "URL": "http://reddit.com/"
   },
   {
     "Rank": 27,
-    "URL": "w3.org/",
-    "Linking Root Domains": 439272,
-    "External Links": 233359223,
-    "mozRank": 8.36,
-    "mozTrust": 8.81
+    "URL": "http://w3.org/"
   },
   {
     "Rank": 28,
-    "URL": "nytimes.com/",
-    "Linking Root Domains": 401850,
-    "External Links": 41042237,
-    "mozRank": 8.09,
-    "mozTrust": 8.85
+    "URL": "http://nytimes.com/"
   },
   {
     "Rank": 29,
-    "URL": "t.co/",
-    "Linking Root Domains": 388575,
-    "External Links": 806698131,
-    "mozRank": 8.18,
-    "mozTrust": 8.21
+    "URL": "http://t.co/"
   },
   {
     "Rank": 30,
-    "URL": "europa.eu/",
-    "Linking Root Domains": 368037,
-    "External Links": 76120729,
-    "mozRank": 8.37,
-    "mozTrust": 8.86
+    "URL": "http://europa.eu/"
   },
   {
     "Rank": 31,
-    "URL": "statcounter.com/",
-    "Linking Root Domains": 367260,
-    "External Links": 102433378,
-    "mozRank": 8.3,
-    "mozTrust": 8.06
+    "URL": "http://statcounter.com/"
   },
   {
     "Rank": 32,
-    "URL": "weebly.com/",
-    "Linking Root Domains": 354743,
-    "External Links": 13428299,
-    "mozRank": 8.09,
-    "mozTrust": 8.03
+    "URL": "http://weebly.com/"
   },
   {
     "Rank": 33,
-    "URL": "blogger.com/",
-    "Linking Root Domains": 339246,
-    "External Links": 942734072,
-    "mozRank": 7.87,
-    "mozTrust": 7.66
+    "URL": "http://blogger.com/"
   },
   {
     "Rank": 34,
-    "URL": "soundcloud.com/",
-    "Linking Root Domains": 332276,
-    "External Links": 50687126,
-    "mozRank": 7.99,
-    "mozTrust": 7.95
+    "URL": "http://soundcloud.com/"
   },
   {
     "Rank": 35,
-    "URL": "github.com/",
-    "Linking Root Domains": 330983,
-    "External Links": 88359993,
-    "mozRank": 8.45,
-    "mozTrust": 8.43
+    "URL": "http://github.com/"
   },
   {
     "Rank": 36,
-    "URL": "bbc.co.uk/",
-    "Linking Root Domains": 330783,
-    "External Links": 81788903,
-    "mozRank": 7.97,
-    "mozTrust": 8.8
+    "URL": "http://bbc.co.uk/"
   },
   {
     "Rank": 37,
-    "URL": "jimdo.com/",
-    "Linking Root Domains": 327986,
-    "External Links": 21856383,
-    "mozRank": 7.77,
-    "mozTrust": 7.39
+    "URL": "http://jimdo.com/"
   },
   {
     "Rank": 38,
-    "URL": "qq.com/",
-    "Linking Root Domains": 327451,
-    "External Links": 146171102,
-    "mozRank": 8.31,
-    "mozTrust": 7.51
+    "URL": "http://qq.com/"
   },
   {
     "Rank": 39,
-    "URL": "myspace.com/",
-    "Linking Root Domains": 324698,
-    "External Links": 59129801,
-    "mozRank": 7.75,
-    "mozTrust": 7.7
+    "URL": "http://myspace.com/"
   },
   {
     "Rank": 40,
-    "URL": "yandex.ru/",
-    "Linking Root Domains": 320420,
-    "External Links": 107816509,
-    "mozRank": 7.8,
-    "mozTrust": 7.18
+    "URL": "http://yandex.ru/"
   },
   {
     "Rank": 41,
-    "URL": "wp.com/",
-    "Linking Root Domains": 318426,
-    "External Links": 93806994,
-    "mozRank": 7.95,
-    "mozTrust": 7.74
+    "URL": "http://wp.com/"
   },
   {
     "Rank": 42,
-    "URL": "mozilla.org/",
-    "Linking Root Domains": 308348,
-    "External Links": 30538405,
-    "mozRank": 8.26,
-    "mozTrust": 8.82
+    "URL": "http://mozilla.org/"
   },
   {
     "Rank": 43,
-    "URL": "google.de/",
-    "Linking Root Domains": 296695,
-    "External Links": 18859851,
-    "mozRank": 8.19,
-    "mozTrust": 7.63
+    "URL": "http://google.de/"
   },
   {
     "Rank": 44,
-    "URL": "gravatar.com/",
-    "Linking Root Domains": 290058,
-    "External Links": 20399570,
-    "mozRank": 7.95,
-    "mozTrust": 7.79
+    "URL": "http://gravatar.com/"
   },
   {
     "Rank": 45,
-    "URL": "addthis.com/",
-    "Linking Root Domains": 288185,
-    "External Links": 155301173,
-    "mozRank": 8.21,
-    "mozTrust": 8.2
+    "URL": "http://addthis.com/"
   },
   {
     "Rank": 46,
-    "URL": "google.co.jp/",
-    "Linking Root Domains": 274555,
-    "External Links": 31341415,
-    "mozRank": 8.28,
-    "mozTrust": 7.71
+    "URL": "http://google.co.jp/"
   },
   {
     "Rank": 47,
-    "URL": "theguardian.com/",
-    "Linking Root Domains": 273370,
-    "External Links": 24783494,
-    "mozRank": 7.98,
-    "mozTrust": 8.6
+    "URL": "http://theguardian.com/"
   },
   {
     "Rank": 48,
-    "URL": "co.nz/",
-    "Linking Root Domains": 272080,
-    "External Links": 53497695,
-    "mozRank": 8.06,
-    "mozTrust": 7.95
+    "URL": "http://co.nz/"
   },
   {
     "Rank": 49,
-    "URL": "bluehost.com/",
-    "Linking Root Domains": 271497,
-    "External Links": 19386519,
-    "mozRank": 7.52,
-    "mozTrust": 7.11
+    "URL": "http://bluehost.com/"
   },
   {
     "Rank": 50,
-    "URL": "cnn.com/",
-    "Linking Root Domains": 269404,
-    "External Links": 38086184,
-    "mozRank": 7.9,
-    "mozTrust": 8.8
+    "URL": "http://cnn.com/"
   },
   {
     "Rank": 51,
-    "URL": "wix.com/",
-    "Linking Root Domains": 268937,
-    "External Links": 7224054,
-    "mozRank": 8.03,
-    "mozTrust": 7.84
+    "URL": "http://wix.com/"
   },
   {
     "Rank": 52,
-    "URL": "nih.gov/",
-    "Linking Root Domains": 268883,
-    "External Links": 169957242,
-    "mozRank": 7.97,
-    "mozTrust": 8.85
+    "URL": "http://nih.gov/"
   },
   {
     "Rank": 53,
-    "URL": "paypal.com/",
-    "Linking Root Domains": 263379,
-    "External Links": 31063406,
-    "mozRank": 8.2,
-    "mozTrust": 8.05
+    "URL": "http://paypal.com/"
   },
   {
     "Rank": 54,
-    "URL": "stumbleupon.com/",
-    "Linking Root Domains": 262580,
-    "External Links": 86740427,
-    "mozRank": 7.64,
-    "mozTrust": 7.61
+    "URL": "http://stumbleupon.com/"
   },
   {
     "Rank": 55,
-    "URL": "creativecommons.org/",
-    "Linking Root Domains": 262550,
-    "External Links": 151384580,
-    "mozRank": 8.09,
-    "mozTrust": 8.87
+    "URL": "http://creativecommons.org/"
   },
   {
     "Rank": 56,
-    "URL": "digg.com/",
-    "Linking Root Domains": 262293,
-    "External Links": 81494204,
-    "mozRank": 7.64,
-    "mozTrust": 7.68
+    "URL": "http://digg.com/"
   },
   {
     "Rank": 57,
-    "URL": "huffingtonpost.com/",
-    "Linking Root Domains": 255554,
-    "External Links": 52647930,
-    "mozRank": 7.87,
-    "mozTrust": 8.08
+    "URL": "http://huffingtonpost.com/"
   },
   {
     "Rank": 58,
-    "URL": "issuu.com/",
-    "Linking Root Domains": 253347,
-    "External Links": 59889703,
-    "mozRank": 7.96,
-    "mozTrust": 8.01
+    "URL": "http://issuu.com/"
   },
   {
     "Rank": 59,
-    "URL": "feedburner.com/",
-    "Linking Root Domains": 252573,
-    "External Links": 221855149,
-    "mozRank": 7.9,
-    "mozTrust": 7.93
+    "URL": "http://feedburner.com/"
   },
   {
     "Rank": 60,
-    "URL": "imdb.com/",
-    "Linking Root Domains": 250290,
-    "External Links": 30683345,
-    "mozRank": 7.8,
-    "mozTrust": 7.84
+    "URL": "http://imdb.com/"
   },
   {
     "Rank": 61,
-    "URL": "yelp.com/",
-    "Linking Root Domains": 246367,
-    "External Links": 11654670,
-    "mozRank": 7.89,
-    "mozTrust": 7.78
+    "URL": "http://yelp.com/"
   },
   {
     "Rank": 62,
-    "URL": "parallels.com/",
-    "Linking Root Domains": 238706,
-    "External Links": 3829203,
-    "mozRank": 8.42,
-    "mozTrust": 7.88
+    "URL": "http://parallels.com/"
   },
   {
     "Rank": 63,
-    "URL": "addtoany.com/",
-    "Linking Root Domains": 235097,
-    "External Links": 308638415,
-    "mozRank": 7.9,
-    "mozTrust": 7.78
+    "URL": "http://addtoany.com/"
   },
   {
     "Rank": 64,
-    "URL": "google.co.uk/",
-    "Linking Root Domains": 230737,
-    "External Links": 13369198,
-    "mozRank": 8.08,
-    "mozTrust": 7.88
+    "URL": "http://google.co.uk/"
   },
   {
     "Rank": 65,
-    "URL": "dropbox.com/",
-    "Linking Root Domains": 228533,
-    "External Links": 9125671,
-    "mozRank": 7.99,
-    "mozTrust": 8.03
+    "URL": "http://dropbox.com/"
   },
   {
     "Rank": 66,
-    "URL": "amazonaws.com/",
-    "Linking Root Domains": 227971,
-    "External Links": 118886742,
-    "mozRank": 8.13,
-    "mozTrust": 8.23
+    "URL": "http://amazonaws.com/"
   },
   {
     "Rank": 67,
-    "URL": "forbes.com/",
-    "Linking Root Domains": 223503,
-    "External Links": 9289507,
-    "mozRank": 7.92,
-    "mozTrust": 8.06
+    "URL": "http://forbes.com/"
   },
   {
     "Rank": 68,
-    "URL": "baidu.com/",
-    "Linking Root Domains": 218072,
-    "External Links": 430849680,
-    "mozRank": 8.27,
-    "mozTrust": 7.35
+    "URL": "http://baidu.com/"
   },
   {
     "Rank": 69,
-    "URL": "go.com/",
-    "Linking Root Domains": 208477,
-    "External Links": 31128931,
-    "mozRank": 7.85,
-    "mozTrust": 8.79
+    "URL": "http://go.com/"
   },
   {
     "Rank": 70,
-    "URL": "washingtonpost.com/",
-    "Linking Root Domains": 206964,
-    "External Links": 21632506,
-    "mozRank": 7.78,
-    "mozTrust": 8.8
+    "URL": "http://washingtonpost.com/"
   },
   {
     "Rank": 71,
-    "URL": "msn.com/",
-    "Linking Root Domains": 206203,
-    "External Links": 28448061,
-    "mozRank": 7.7,
-    "mozTrust": 7.89
+    "URL": "http://msn.com/"
   },
   {
     "Rank": 72,
-    "URL": "slideshare.net/",
-    "Linking Root Domains": 206164,
-    "External Links": 21681509,
-    "mozRank": 7.92,
-    "mozTrust": 7.97
+    "URL": "http://slideshare.net/"
   },
   {
     "Rank": 73,
-    "URL": "wixsite.com/",
-    "Linking Root Domains": 205857,
-    "External Links": 8737515,
-    "mozRank": 7.64,
-    "mozTrust": 7.6
+    "URL": "http://wixsite.com/"
   },
   {
     "Rank": 74,
-    "URL": "wsj.com/",
-    "Linking Root Domains": 205279,
-    "External Links": 22985782,
-    "mozRank": 7.87,
-    "mozTrust": 8.08
+    "URL": "http://wsj.com/"
   },
   {
     "Rank": 75,
-    "URL": "etsy.com/",
-    "Linking Root Domains": 199364,
-    "External Links": 14103481,
-    "mozRank": 7.66,
-    "mozTrust": 7.53
+    "URL": "http://etsy.com/"
   },
   {
     "Rank": 76,
-    "URL": "eventbrite.com/",
-    "Linking Root Domains": 190444,
-    "External Links": 19373370,
-    "mozRank": 7.9,
-    "mozTrust": 8.2
+    "URL": "http://eventbrite.com/"
   },
   {
     "Rank": 77,
-    "URL": "ameblo.jp/",
-    "Linking Root Domains": 187746,
-    "External Links": 46638952,
-    "mozRank": 7.98,
-    "mozTrust": 7.33
+    "URL": "http://ameblo.jp/"
   },
   {
     "Rank": 78,
-    "URL": "archive.org/",
-    "Linking Root Domains": 185913,
-    "External Links": 22621240,
-    "mozRank": 7.92,
-    "mozTrust": 8.03
+    "URL": "http://archive.org/"
   },
   {
     "Rank": 79,
-    "URL": "telegraph.co.uk/",
-    "Linking Root Domains": 178872,
-    "External Links": 8220643,
-    "mozRank": 7.69,
-    "mozTrust": 7.76
+    "URL": "http://telegraph.co.uk/"
   },
   {
     "Rank": 80,
-    "URL": "amazon.co.uk/",
-    "Linking Root Domains": 178537,
-    "External Links": 27399332,
-    "mozRank": 7.73,
-    "mozTrust": 7.71
+    "URL": "http://amazon.co.uk/"
   },
   {
     "Rank": 81,
-    "URL": "fc2.com/",
-    "Linking Root Domains": 178060,
-    "External Links": 194043283,
-    "mozRank": 7.77,
-    "mozTrust": 7.28
+    "URL": "http://fc2.com/"
   },
   {
     "Rank": 82,
-    "URL": "sourceforge.net/",
-    "Linking Root Domains": 177463,
-    "External Links": 42883427,
-    "mozRank": 7.91,
-    "mozTrust": 8.21
+    "URL": "http://sourceforge.net/"
   },
   {
     "Rank": 83,
-    "URL": "mail.ru/",
-    "Linking Root Domains": 176968,
-    "External Links": 70980177,
-    "mozRank": 7.8,
-    "mozTrust": 7.19
+    "URL": "http://mail.ru/"
   },
   {
     "Rank": 84,
-    "URL": "e-recht24.de/",
-    "Linking Root Domains": 172224,
-    "External Links": 559722,
-    "mozRank": 7.78,
-    "mozTrust": 6.96
+    "URL": "http://e-recht24.de/"
   },
   {
     "Rank": 85,
-    "URL": "ebay.com/",
-    "Linking Root Domains": 172068,
-    "External Links": 76831504,
-    "mozRank": 7.74,
-    "mozTrust": 7.63
+    "URL": "http://ebay.com/"
   },
   {
     "Rank": 86,
-    "URL": "cpanel.net/",
-    "Linking Root Domains": 171559,
-    "External Links": 607201,
-    "mozRank": 8.25,
-    "mozTrust": 8.19
+    "URL": "http://cpanel.net/"
   },
   {
     "Rank": 87,
-    "URL": "free.fr/",
-    "Linking Root Domains": 169531,
-    "External Links": 13231377,
-    "mozRank": 7.54,
-    "mozTrust": 7.51
+    "URL": "http://free.fr/"
   },
   {
     "Rank": 88,
-    "URL": "doubleclick.net/",
-    "Linking Root Domains": 168837,
-    "External Links": 140803553,
-    "mozRank": 7.44,
-    "mozTrust": 7.47
+    "URL": "http://doubleclick.net/"
   },
   {
     "Rank": 89,
-    "URL": "livejournal.com/",
-    "Linking Root Domains": 167719,
-    "External Links": 52878921,
-    "mozRank": 7.33,
-    "mozTrust": 7.36
+    "URL": "http://livejournal.com/"
   },
   {
     "Rank": 90,
-    "URL": "reuters.com/",
-    "Linking Root Domains": 165935,
-    "External Links": 55741098,
-    "mozRank": 7.69,
-    "mozTrust": 7.91
+    "URL": "http://reuters.com/"
   },
   {
     "Rank": 91,
-    "URL": "typepad.com/",
-    "Linking Root Domains": 165130,
-    "External Links": 56220936,
-    "mozRank": 7.56,
-    "mozTrust": 7.79
+    "URL": "http://typepad.com/"
   },
   {
     "Rank": 92,
-    "URL": "dailymail.co.uk/",
-    "Linking Root Domains": 164859,
-    "External Links": 8284088,
-    "mozRank": 7.61,
-    "mozTrust": 7.69
+    "URL": "http://dailymail.co.uk/"
   },
   {
     "Rank": 93,
-    "URL": "bloomberg.com/",
-    "Linking Root Domains": 164242,
-    "External Links": 39285937,
-    "mozRank": 7.72,
-    "mozTrust": 8.78
+    "URL": "http://bloomberg.com/"
   },
   {
     "Rank": 94,
-    "URL": "cpanel.com/",
-    "Linking Root Domains": 163174,
-    "External Links": 1214694,
-    "mozRank": 8.17,
-    "mozTrust": 8.14
+    "URL": "http://cpanel.com/"
   },
   {
     "Rank": 95,
-    "URL": "yahoo.co.jp/",
-    "Linking Root Domains": 162444,
-    "External Links": 76581669,
-    "mozRank": 8.12,
-    "mozTrust": 7.45
+    "URL": "http://yahoo.co.jp/"
   },
   {
     "Rank": 96,
-    "URL": "about.com/",
-    "Linking Root Domains": 158007,
-    "External Links": 2906234,
-    "mozRank": 7.5,
-    "mozTrust": 7.77
+    "URL": "http://about.com/"
   },
   {
     "Rank": 97,
-    "URL": "macromedia.com/",
-    "Linking Root Domains": 157610,
-    "External Links": 7399294,
-    "mozRank": 8.09,
-    "mozTrust": 8.09
+    "URL": "http://macromedia.com/"
   },
   {
     "Rank": 98,
-    "URL": "amzn.to/",
-    "Linking Root Domains": 157111,
-    "External Links": 37951087,
-    "mozRank": 7.62,
-    "mozTrust": 7.55
+    "URL": "http://amzn.to/"
   },
   {
     "Rank": 99,
-    "URL": "eepurl.com/",
-    "Linking Root Domains": 156357,
-    "External Links": 31224607,
-    "mozRank": 7.87,
-    "mozTrust": 7.98
+    "URL": "http://eepurl.com/"
   },
   {
     "Rank": 100,
-    "URL": "wikimedia.org/",
-    "Linking Root Domains": 155813,
-    "External Links": 9023462,
-    "mozRank": 7.59,
-    "mozTrust": 7.77
+    "URL": "http://wikimedia.org/"
   }
 ]

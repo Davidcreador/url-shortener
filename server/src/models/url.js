@@ -4,6 +4,7 @@ const {Schema} = mongoose;
 
 const urlSchema = new Schema({
   id: Number,
+  rank: Number,
   path: String,
   description: String,
 });

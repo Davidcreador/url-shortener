@@ -11,7 +11,7 @@ export default (app) => {
       if (err) return console.log(err);
       if (!url) console.log('NO URL');
 
-      return res.redirect(302, url.path);
+      return res.redirect(url.path);
     });
   });
 };

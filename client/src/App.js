@@ -17,7 +17,7 @@ class App extends Component {
 
     if (data.path !== '') {
       axios.post("http://localhost:8080/url", data)
-      // axios.post("https://url-shortener-server.herokuapp.com/api/url", data)
+      // axios.post("https://url-shortener-server.herokuapp.com/url", data)
       .then(res => {
         console.log(res);
         this.setState({smallUrl: res.data});
