@@ -1,4 +1,4 @@
-# url-shortener
+# Basic implementation of a url-shortener
 ## How to setup the application
 - First clone the repo `git clone https://github.com/Davidcreador/url-shortener.git`
 - `cd` into server folder and install npm modules `npm install` or `yarn`
