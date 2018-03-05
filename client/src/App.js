@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -16,15 +15,19 @@ class App extends Component {
       description: 'Search site'
     }
 
-    axios.post("https://url-shortener-server.herokuapp.com/api/url", data)
-    .then(res => {
-      console.log(res);
-      this.setState({smallUrl: res.data});
-    }).catch(err => console.error);
+    if (data.path !== '') {
+      axios.post("http://localhost:8080/url", data)
+      // axios.post("https://url-shortener-server.herokuapp.com/api/url", data)
+      .then(res => {
+        console.log(res);
+        this.setState({smallUrl: res.data});
+      }).catch(err => console.error);
+    }
+
   }
 
   handleChange = (e) => {
-    this.setState({ input: e.target.value });
+    this.setState({input: e.target.value});
   }
   
   render() {

@@ -1,7 +1,7 @@
 import Url from '../models/url';
 
 export default (app) => {
-  app.get('/:id', async(req, res) => {
+  app.get('/:id', async(req, res, next) => {
     // decode param :id
     const encodedId = req.params.id;
     const decodedId = parseInt(encodedId, 36);
