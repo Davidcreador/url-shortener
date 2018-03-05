@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "seed": "node seeder-bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -24,6 +25,7 @@
     "jsonwebtoken": "^8.2.0",
     "moment": "^2.21.0",
     "mongodb": "^3.0.3",
+    "mongoose": "^5.0.8",
     "morgan": "^1.9.0",
     "winston": "^2.4.0"
   },
