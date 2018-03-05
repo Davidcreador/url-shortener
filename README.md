@@ -1,6 +1,6 @@
 # url-shortener
 ## How to setup the application
-- First clone the repo
+- First clone the repo `git clone git@github.com:Davidcreador/url-shortener.git`
 - `cd` into server folder and install npm modules `npm install` or `yarn`
 - `cd` into client folder and install npm modules `npm install` or `yarn`
 - After these steps now in each folder you can run `yarn start` or `npm start` to run the application
